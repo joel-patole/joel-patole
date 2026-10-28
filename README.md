@@ -1,110 +1,128 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Joel Patole: Full Stack Developer. Animated sound waveform header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:00D9F5,100:7C3AED&height=230&section=header&text=JOEL%20PATOLE&fontSize=64&fontColor=0A0F1C&fontAlignY=36&animation=fadeIn&desc=full-stack%20%C2%B7%20backend%20%C2%B7%20IoT%20%C2%B7%20agentic%20AI&descSize=20&descAlignY=58&descColor=0A0F1C" width="100%" alt="Joel Patole header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2200&pause=600&color=00F5A0&background=0A0F1CFF&width=720&height=215&lines=joel%40mumbai%3A~%24+whoami;%3E+Joel+Patole+%7C+Full-Stack+Developer;joel%40mumbai%3A~%24+cat+status.txt;%3E+Open+to+roles+and+internships+%5BOK%5D;joel%40mumbai%3A~%24+.%2Fbuild+--everything;%3E+APIs+%5BOK%5D+DBs+%5BOK%5D+React+%5BOK%5D+Hardware+%5BOK%5D&multiline=true&repeat=false&vCenter=false&center=false&separator=;" alt="Terminal animation: whoami, status, build" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/joel-patole-68a738358/"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/joels_audio/"><img src="https://img.shields.io/badge/Instagram-@joels__audio-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="mailto:joelpatole1@gmail.com"><img src="https://img.shields.io/badge/Email-Drop_a_line-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-<img src="https://img.shields.io/badge/MUMBAI,_INDIA-7C3AED?style=flat-square" alt="Mumbai, India" />
-<img src="https://img.shields.io/badge/OPEN_TO_ROLES_%26_INTERNSHIPS-10B981?style=flat-square" alt="Open to roles and internships" />
-<img src="https://img.shields.io/badge/B.TECH_IT_·_SFIT_·_2027-F59E0B?style=flat-square" alt="B.Tech IT, SFIT, 2027" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=EC4899&center=true&vCenter=true&width=760&height=50&lines=%E2%96%B6+NOW+PLAYING%3A+Nukelear+%E2%80%93+dev+toolkit;%E2%96%B6+IN+THE+STUDIO%3A+UrbanLens+AI+%28Agentic+%2B+RAG%29;%E2%96%B6+GENRE%3A+APIs+%C3%97+IoT+%C3%97+React;%E2%96%B6+SEEKING%3A+backend+%2F+full-stack+roles" alt="Typing animation of what I'm working on" />
+<a href="https://www.linkedin.com/in/joel-patole-68a738358/"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/joels_audio/"><img src="https://img.shields.io/badge/Instagram-@joels__audio-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="mailto:joelpatole1@gmail.com"><img src="https://img.shields.io/badge/Email-joelpatole1@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+---
 
-## 🎧 Liner Notes
+### `$ man joel`
 
-> *Every great track has a story behind the sound. Here's mine.*
+```text
+JOEL(1)                      Developer Manual                      JOEL(1)
 
-I build whole products end to end: **APIs, databases, React interfaces, and even the hardware that talks to them.** I think in systems the way a producer thinks in layers: a solid backend is the bassline, a clean UI is the melody, and ML is the part that makes people ask *"wait, how did it know that?"*
+NAME
+       joel - builds whole products, from database to device
 
-|  | 🎚️ Channel | Details |
-|---|---|---|
-| 🎓 | **Studio** | B.Tech Information Technology, St Francis Institute of Technology (Expected 2027) |
-| 🔭 | **Exploring** | Agentic AI · Retrieval Augmented Generation (RAG) · LLM orchestration |
-| 🎯 | **Current goal** | A full-stack / backend developer role or internship |
-| 🗣️ | **Languages** | English · Hindi · Marathi |
-| 🎵 | **Off-duty** | Audio and sound, over on [@joels_audio](https://www.instagram.com/joels_audio/) |
+SYNOPSIS
+       joel [--backend] [--frontend] [--iot] [--agentic-ai]
 
-<img src="assets/divider.svg" width="100%" alt="" />
+DESCRIPTION
+       B.Tech Information Technology student at St Francis Institute of
+       Technology, Mumbai (expected 2027). Designs REST APIs, wires up
+       databases, ships React interfaces, and flashes the microcontrollers
+       that talk to them.
 
-## 💿 The Tracklist
+       Currently exploring Agentic AI, RAG and LLM orchestration.
 
-*Six tracks, six different sounds.*
+LANGUAGES
+       English, Hindi, Marathi
 
-| # | Track | The Vibe | Stack | Status |
-|:-:|---|---|---|:-:|
-| **01** | 🧹 **[Nukelear](https://github.com/joel-patole/Nukelear)** | Developer toolkit that scans nested workspaces and wipes heavy folders (`node_modules`, `venv`, build artifacts), plus browser upload to GitHub with secret detection and credential redaction. | `HTML` `TypeScript` `JavaScript` `Shell` | 🟡 Recording |
-| **02** | 🚦 **[SafeNav_Mumbai](https://github.com/joel-patole/SafeNav_Mumbai)** | Mumbai accident-hotspot system: FastAPI + MongoDB backend, ML risk prediction and an interactive Leaflet map. | `FastAPI` `MongoDB` `ML` `Leaflet` | ✅ Released |
-| **03** | 📡 **[RFID-based-attendance-server](https://github.com/joel-patole/RFID-based-attendance-server)** | ESP8266 + MFRC522 reads cards and sends scans over Wi-Fi to a Flask server with a live Socket.IO dashboard. | `ESP8266` `Flask` `Socket.IO` | ✅ Released |
-| **04** | 🎬 **[lumiere](https://github.com/joel-patole/lumiere)** | A React + Vite front-end build. | `React` `Vite` `CSS` | 🟡 Recording |
-| **05** | 🔐 **DocuVault** | Secure document manager with full CRUD and Clerk auth, where users only see their own files. | `Flask` `MongoDB` `Clerk` | ✅ Released |
-| **06** | 🏙️ **UrbanLens AI** | Agentic AI platform that tells you if a city suits you, using an orchestrator, specialist agents, RAG and live APIs. | `Agentic AI` `RAG` | 🟡 Recording |
+SEE ALSO
+       @joels_audio (the sound side of the brain)
+```
 
-<img src="assets/divider.svg" width="100%" alt="" />
+---
 
-## 🎛️ The Mixing Board
+### `$ cat skills.json`
+
+```json
+{
+  "languages":  ["Python", "JavaScript", "TypeScript", "SQL (basic)", "Shell", "HTML", "CSS"],
+  "frontend":   ["React", "Tailwind CSS", "Leaflet.js"],
+  "backend":    ["Flask", "FastAPI", "REST design", "Clerk auth", "CRUD systems"],
+  "databases":  ["MongoDB", "SQL (basic)"],
+  "ai_ml":      ["Risk-prediction ML", "LLMs", "RAG", "Agentic AI", "Orchestration"],
+  "iot":        ["ESP8266", "Arduino", "MFRC522 RFID", "Wi-Fi comms"]
+}
+```
 
 <div align="center">
-<img src="assets/equalizer.svg" alt="Animated equalizer visualizing my tech stack" width="100%" />
+<img src="https://skillicons.dev/icons?i=python,flask,fastapi,js,ts,react,tailwind,mongodb,html,css,bash,arduino,git,github&perline=14" alt="Tech stack icons" />
 </div>
+
+---
+
+### `$ git log --oneline --projects`
+
+| commit | message | stack | status |
+|:-:|---|---|:-:|
+| `feat` | 🧹 **[Nukelear](https://github.com/joel-patole/Nukelear)**: scan nested workspaces, nuke `node_modules` / `venv` / build junk, plus browser upload to GitHub with secret detection | `TypeScript` `JavaScript` `Shell` | 🟡 WIP |
+| `feat` | 🚦 **[SafeNav_Mumbai](https://github.com/joel-patole/SafeNav_Mumbai)**: ML accident-hotspot prediction and safer routing on a live Leaflet map | `FastAPI` `MongoDB` `ML` | ✅ shipped |
+| `feat` | 📡 **[RFID-based-attendance-server](https://github.com/joel-patole/RFID-based-attendance-server)**: ESP8266 card scans → Wi-Fi → live Socket.IO dashboard | `ESP8266` `Flask` | ✅ shipped |
+| `feat` | 🎬 **[lumiere](https://github.com/joel-patole/lumiere)**: React + Vite front-end build | `React` `Vite` | 🟡 WIP |
+| `feat` | 🔐 **DocuVault**: secure document manager, users only see their own files | `Flask` `MongoDB` `Clerk` | ✅ shipped |
+| `feat` | 🏙️ **UrbanLens AI**: agentic platform that tells you if a city suits you (orchestrator + agents + RAG) | `Agentic AI` `RAG` | 🟡 WIP |
+
+---
+
+### `$ htop --me`
+
+```text
+ curiosity   [████████████████████] 100%   Agentic AI, RAG, IoT
+ shipping    [████████████░░░░░░░░]  60%   4 projects out, more compiling
+ coffee      [███████████████████░]  95%
+ sleep       [███░░░░░░░░░░░░░░░░░]  15%   (cache miss)
+
+ # bars are vibes, not benchmarks
+```
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=joel-patole&show_icons=true&hide_border=true&bg_color=0A0F1C&title_color=00F5A0&icon_color=00D9F5&text_color=C9D1D9" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joel-patole&layout=compact&hide_border=true&bg_color=0A0F1C&title_color=00F5A0&text_color=C9D1D9" alt="Top languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joel-patole&bg_color=0A0F1C&color=00F5A0&line=00D9F5&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
+
+</div>
+
+---
+
+### `$ sudo hire joel`
 
 <details>
-<summary><b>🎹 Open the full rack (every tool in the studio)</b></summary>
+<summary><code>[sudo] password for recruiter: ••••••••  (click to authenticate)</code></summary>
+
 <br/>
 
-<div align="center">
+```text
+Access granted. Welcome, human.
 
-<img src="https://skillicons.dev/icons?i=python,flask,fastapi,js,ts,react,tailwind,mongodb,html,css,bash,arduino,git,github&perline=7" alt="Tech stack icons" />
+  email     joelpatole1@gmail.com
+  linkedin  linkedin.com/in/joel-patole-68a738358
+  instagram @joels_audio
+  location  Mumbai, India (UTC+5:30)
+  status    open to full-stack / backend roles and internships
 
-</div>
+Estimated reply time: fast.
+```
 
-| Slot | Items |
-|---|---|
-| ⚔️ **Languages** | Python · JavaScript · TypeScript · SQL (basic) · Shell · HTML · CSS |
-| 🛡️ **Frontend** | React.js · Tailwind CSS · Leaflet.js · responsive UI |
-| 🔮 **Backend** | Flask · FastAPI · REST API design · Auth (Clerk) · CRUD systems |
-| 🗄️ **Databases** | MongoDB · SQL (basic) |
-| 🧠 **AI / ML** | ML for risk prediction · LLMs · RAG · Agentic AI · Orchestration |
-| 📡 **IoT** | ESP8266 · Arduino IDE · MFRC522 RFID · Wi-Fi communication |
+[📧 Email me](mailto:joelpatole1@gmail.com) · [💼 LinkedIn](https://www.linkedin.com/in/joel-patole-68a738358/) · [📸 Instagram](https://www.instagram.com/joels_audio/)
 
 </details>
 
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## 📈 Chart Position
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=joel-patole&show_icons=true&hide_border=true&bg_color=0D0718&title_color=EC4899&icon_color=FBBF24&text_color=E9D5FF" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joel-patole&layout=compact&hide_border=true&bg_color=0D0718&title_color=EC4899&text_color=E9D5FF" alt="Top languages" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:00D9F5,100:00F5A0&height=110&section=footer" width="100%" alt="" />
 
-<img src="https://streak-stats.demolab.com/?user=joel-patole&hide_border=true&background=0D0718&ring=EC4899&fire=FBBF24&currStreakLabel=FBBF24&sideLabels=E9D5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A78BFA" alt="GitHub streak" />
-
-</div>
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## 📨 Request a Track
-
-Got a project that needs a backend and a brain, an API to design, or a gadget that needs to talk to the internet? Let's make something.
-
-<div align="center">
-
-<a href="mailto:joelpatole1@gmail.com"><img src="https://img.shields.io/badge/📧_Email-joelpatole1@gmail.com-EA4335?style=for-the-badge" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/joel-patole-68a738358/"><img src="https://img.shields.io/badge/💼_LinkedIn-Message_me-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/joels_audio/"><img src="https://img.shields.io/badge/📸_Instagram-Follow_the_sound-E4405F?style=for-the-badge" alt="Instagram" /></a>
-
-<br/><br/>
-
-*🎶 Thanks for stopping by. Leave the volume up. 🎶*
-
-<img src="https://komarev.com/ghpvc/?username=joel-patole&label=LISTENERS&color=EC4899&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=joel-patole&label=PROCESS+RUNS&color=00F5A0&style=flat-square" alt="Profile views" />
 
 </div>
