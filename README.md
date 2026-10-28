@@ -4,7 +4,7 @@
 
 ```text
    ████████████████████████████████████████
-   █  ▄▄▄▄   ▄▄▄▄▄  ▄▄▄▄▄  ▄▄      ▄▄▄▄▄▄ █
+   █  ▄▄▄▄   ▄▄▄▄▄  ▄▄▄▄▄  ▄▄      ▄▄▄▄▄  █
    █     █   █   █  █      █       █   █  █
    █  ▄▄▄█   █   █  █▀▀▀   █       █▄▄▄█  █
    █  █▄▄█   █▄▄▄█  █▄▄▄▄  █▄▄▄▄   █      █
@@ -19,7 +19,7 @@
 
 <a href="https://www.linkedin.com/in/joel-patole-68a738358"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:joelpatole1@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://YOUR-PORTFOLIO-LINK-HERE"><img src="https://img.shields.io/badge/Portfolio-Play_it-C084FC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://joel-patole-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Play_it-C084FC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
@@ -72,7 +72,7 @@ MP  ███████████████░░░░░  75%   (curiosi
 | 📡 **[RFID-Attendance-System](https://github.com/joel-patole/RFID-Attendance-System)** | ESP8266 + MFRC522 reads cards and sends scans over Wi-Fi to a Flask backend with a live entry/exit log. | `ESP8266` `Arduino` `Flask` `HTML` | ✅ Complete (Jan – Apr 2026) |
 | 🔐 **[DocuVault](https://github.com/joel-patole/DocuVault)** | Secure document manager: full CRUD, Clerk authentication, users only see their own files. | `Flask` `MongoDB` `Clerk` `HTML/CSS/JS` | ✅ Complete (Aug – Nov 2025) |
 | 🏙️ **UrbanLens AI** | Agentic AI platform that tells you if a city suits you, using an orchestrator, specialist agents, RAG and live APIs. | `Agentic AI` `RAG` `Live APIs` | 🟡 Building now |
-| 🌌 **[Portfolio](https://YOUR-PORTFOLIO-LINK-HERE)** | This pixel-perfect site you are probably wishing you saw first: animated diagrams and a built-in arcade (Snake, Tic-Tac-Toe, Memory). | `Next.js` `TypeScript` `CSS` | ✅ Live |
+| 🌌 **[Portfolio](https://joel-patole-portfolio.vercel.app)** | This pixel-perfect site you are probably wishing you saw first: animated diagrams and a built-in arcade (Snake, Tic-Tac-Toe, Memory). | `Next.js` `TypeScript` `CSS` | ✅ Live |
 
 ---
 
@@ -109,7 +109,7 @@ Want to team up, hire me, or just talk about APIs, IoT or agentic AI?
 
 - 📧 [joelpatole1@gmail.com](mailto:joelpatole1@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/joel-patole-68a738358)
-- 🌐 [Portfolio](https://YOUR-PORTFOLIO-LINK-HERE)
+- 🌐 [Portfolio](https://joel-patole-portfolio.vercel.app)
 
 <div align="center">
 
